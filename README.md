@@ -70,7 +70,6 @@ Result:
 1.0
 1.0
 1.0
-```
 
 ## Tecnologias Utilizadas
 
