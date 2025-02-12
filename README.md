@@ -66,10 +66,12 @@ Você pode testar o servidor enviando requisições HTTP GET com os seguintes pa
 
 ### Exemplo de Resposta
 
+```plaintext
 Result:
 1.0
 1.0
 1.0
+```
 
 ## Tecnologias Utilizadas
 
