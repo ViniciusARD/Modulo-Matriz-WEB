@@ -27,7 +27,7 @@ Este projeto é uma implementação de um servidor web simples que resolve siste
 1. **Clone o repositório**:
    Se você ainda não tiver o repositório clonado, faça isso com o seguinte comando:
    ```bash
-   git clone https://github.com/seu-usuario/ModuloMatriz.git
+   git clone https://github.com/ViniciusARD/ModuloMatriz-WEB.git
    cd ModuloMatriz
    ```
 
